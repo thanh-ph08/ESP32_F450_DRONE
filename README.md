@@ -1,7 +1,7 @@
 # 🚁 Dự Án ESP32_F450_DRONE
 
 Đây là một dự án drone DIY sử dụng **ESP32** làm flight controller, kết nối với các cảm biến và thiết bị điện tử cơ bản, chạy firmware **ESP-FC** và có thể **tune thông số bay qua Betaflight**.
-
+![DRONE][./drone.jpg]
 ---
 
 ## 🧩 Thành phần phần cứng
