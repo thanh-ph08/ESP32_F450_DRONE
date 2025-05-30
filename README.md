@@ -4,7 +4,7 @@
 ---
 
 ## 🧩 Thành phần phần cứng
-![DRONE][./drone.jpg]
+![Drone](./drone.jpg)
 
 | Thành phần                 | Thông tin chi tiết |
 |---------------------------|---------------------|
