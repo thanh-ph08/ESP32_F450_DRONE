@@ -38,12 +38,4 @@
 ### Pin:
 - Gói pin 3S3P Li-ion VTC6 cấp nguồn cho ESC và ESP32 (thông qua mạch ổn áp nếu cần)
 
----
 
-## 🛫 Hướng phát triển
-
-- Thêm GPS cho chế độ bay tự động
-- Thêm khả năng truyền hình ảnh (FPV) hoặc phát hiện đối tượng bằng camera
-- Ghi log chuyến bay ra SD card
-- Giao tiếp với Raspberry pi để trở thành autonomous drone
----
